@@ -1,5 +1,7 @@
 <h1 align="center">Hi, I'm Shrestha 👋</h1>
 
+<p align="center"><img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="72" alt="Animated cat typing" /></p>
+
 <p align="center">
   <a href="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=8957E5&center=true&vCenter=true&width=620&lines=AI%2FML+student+%C2%B7+builder+%C2%B7+community+leader;Building+AI+systems+and+testing+them+honestly;B.Tech+CSE+%28AI%2FML%29+%40+SRMIST+%7C+B.S.+Data+Science+%40+IIT+Madras">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=8957E5&center=true&vCenter=true&width=620&lines=AI%2FML+student+%C2%B7+builder+%C2%B7+community+leader;Building+AI+systems+and+testing+them+honestly;B.Tech+CSE+%28AI%2FML%29+%40+SRMIST+%7C+B.S.+Data+Science+%40+IIT+Madras" alt="Animated introduction" />
@@ -51,3 +53,5 @@
 ## 📫 Let's connect
 
 Find me on [LinkedIn](https://www.linkedin.com/in/shrestha-chatterjee-421a27332).
+
+
