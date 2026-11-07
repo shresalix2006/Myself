@@ -1,15 +1,19 @@
-# Myself
 <h1 align="center">Hi, I'm Shrestha 👋</h1>
 
 <p align="center">
-  <b>AI/ML student · builder · community leader</b><br>
+  <a href="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=8957E5&center=true&vCenter=true&width=620&lines=AI%2FML+student+%C2%B7+builder+%C2%B7+community+leader;Building+AI+systems+and+testing+them+honestly;B.Tech+CSE+%28AI%2FML%29+%40+SRMIST+%7C+B.S.+Data+Science+%40+IIT+Madras">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=8957E5&center=true&vCenter=true&width=620&lines=AI%2FML+student+%C2%B7+builder+%C2%B7+community+leader;Building+AI+systems+and+testing+them+honestly;B.Tech+CSE+%28AI%2FML%29+%40+SRMIST+%7C+B.S.+Data+Science+%40+IIT+Madras" alt="Animated introduction" />
+  </a>
+</p>
+
+<p align="center">
   B.Tech CSE (AI/ML) at SRMIST Delhi-NCR &nbsp;|&nbsp; B.S. Data Science at IIT Madras
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/shrestha-chatterjee-421a27332"><img src="https://img.shields.io/badge/LinkedIn-Shrestha%20Chatterjee-0A66C2?logo=linkedin&logoColor=white"></a>
-  <img src="https://img.shields.io/badge/Focus-AI%20evaluation%20%26%20agents-8957e5">
-  <img src="https://img.shields.io/badge/CGPA-8.74-2ea44f">
+  <a href="https://www.linkedin.com/in/shrestha-chatterjee-421a27332"><img src="https://img.shields.io/badge/LinkedIn-Shrestha%20Chatterjee-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <img src="https://img.shields.io/badge/Focus-AI%20evaluation%20%26%20agents-8957e5" alt="Focus: AI evaluation and agents" />
+  <img src="https://img.shields.io/badge/CGPA-8.74-2ea44f" alt="CGPA 8.74" />
 </p>
 
 ## 🌟 About me
