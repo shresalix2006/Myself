@@ -15,7 +15,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/shrestha-chatterjee-421a27332"><img src="https://img.shields.io/badge/LinkedIn-Shrestha%20Chatterjee-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <img src="https://img.shields.io/badge/Focus-AI%20evaluation%20%26%20agents-8957e5" alt="Focus: AI evaluation and agents" />
-  <img src="https://img.shields.io/badge/CGPA-8.74-2ea44f" alt="CGPA 8.74" />
+  
 </p>
 
 ## 🌟 About me
