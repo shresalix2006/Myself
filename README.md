@@ -31,7 +31,7 @@
 | Project | What it is | Highlights |
 |---|---|---|
 | 🛡️ [**Detecting Untrustworthy AI Content**](https://github.com/shresalix2006/detecting-untrustworthy-ai-content) | A CNN that detects StyleGAN deepfake faces, and a DistilBERT that flags LLM hallucinations | 95.2% test accuracy and ROC-AUC 0.990 on deepfakes; hallucination F1 0.34 on 5.4%-positive data |
-| 🧳 [**Lost and Found**](https://github.com/shresalix2006/lost-and-found-ai) | A Gradio app that ranks possible matches between lost and found item reports | 12-category CNN ensemble trained from scratch, 71.93% test accuracy; image + text fusion |
+| 🧳 [**Lost and Found**](https://github.com/shresalix2006/Lost-and-Found) | A Gradio app that ranks possible matches between lost and found item reports | 12-category CNN ensemble trained from scratch, 71.93% test accuracy; image + text fusion |
 | 🔀 [**NeuralFlow**](https://github.com/shresalix2006/NeuralFlow) | A visual node-based canvas for building multi-modal AI pipelines | React, Node.js, TypeScript, Gemini SDK |
 | 🧠 [**TWIN::AI**](https://github.com/shresalix2006/ai-learning-digital-twin) | An adaptive AI learning companion with quiz-gated progression | Gemini tutoring with NVIDIA MiniMax fallback routing |
 
